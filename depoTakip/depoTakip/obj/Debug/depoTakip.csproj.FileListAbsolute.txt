@@ -1,0 +1,14 @@
+C:\Users\Sevgül KETENCİ\Source\Repos\depoTakip\depoTakip\bin\Debug\depoTakip.exe.config
+C:\Users\Sevgül KETENCİ\Source\Repos\depoTakip\depoTakip\bin\Debug\depoTakip.exe
+C:\Users\Sevgül KETENCİ\Source\Repos\depoTakip\depoTakip\bin\Debug\depoTakip.pdb
+C:\Users\Sevgül KETENCİ\Source\Repos\depoTakip\depoTakip\obj\Debug\depoTakip.csproj.AssemblyReference.cache
+C:\Users\Sevgül KETENCİ\Source\Repos\depoTakip\depoTakip\obj\Debug\depoTakip.Form1.resources
+C:\Users\Sevgül KETENCİ\Source\Repos\depoTakip\depoTakip\obj\Debug\depoTakip.Properties.Resources.resources
+C:\Users\Sevgül KETENCİ\Source\Repos\depoTakip\depoTakip\obj\Debug\depoTakip.csproj.GenerateResource.cache
+C:\Users\Sevgül KETENCİ\Source\Repos\depoTakip\depoTakip\obj\Debug\depoTakip.csproj.CoreCompileInputs.cache
+C:\Users\Sevgül KETENCİ\Source\Repos\depoTakip\depoTakip\obj\Debug\depoTakip.exe
+C:\Users\Sevgül KETENCİ\Source\Repos\depoTakip\depoTakip\obj\Debug\depoTakip.pdb
+C:\Users\Sevgül KETENCİ\Source\Repos\depoTakip\depoTakip\obj\Debug\depoTakip.Form2.resources
+C:\Users\Sevgül KETENCİ\Source\Repos\depoTakip\depoTakip\obj\Debug\depoTakip.Form3.resources
+C:\Users\Sevgül KETENCİ\Source\Repos\depoTakip\depoTakip\obj\Debug\depoTakip.Form4.resources
+C:\Users\Sevgül KETENCİ\Source\Repos\depoTakip\depoTakip\obj\Debug\depoTakip.Form6.resources
